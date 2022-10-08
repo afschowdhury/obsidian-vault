@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "test another.md",
+            "file": "gg.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test another.md",
+                "file": "gg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test another.md",
+                "file": "gg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test another.md"
+                "file": "gg.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "9dd1cc71b2873186",
   "lastOpenFiles": [
+    "test another.md",
     "Introduction to Databases 4f3a2dc56c7947c8bb5701e0f121a0ba.md",
     "2022-10-08.md",
     "Introduction to Databases 4f3a2dc56c7947c8bb5701e0f121a0ba/select statement e99a501941f746a2a048e06bc11350c9.md",
