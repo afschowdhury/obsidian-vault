@@ -38,11 +38,11 @@ different kinds of databases store data in different forms, one of the most popu
 
 ### basic SQL commands
 
-- create table
-- insert
-- select
-- update
-- delete
+- [[CREATE Statement]]
+- [[INSERT Statement]]
+- [[SELECT statement]]
+- [[UPDATE Statement]]
+- [[DELETE Statement]]
 --- 
 
 

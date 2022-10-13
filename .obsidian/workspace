@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "raw-notes/Github SSH authentication.md",
+            "file": "Database/Introduction to Databases.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#database",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw-notes/Github SSH authentication.md",
+                "file": "Database/Introduction to Databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "raw-notes/Github SSH authentication.md",
+                "file": "Database/Introduction to Databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raw-notes/Github SSH authentication.md"
+                "file": "Database/Introduction to Databases.md"
               }
             }
           },
@@ -142,17 +142,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ba5a4f14a389db78",
+  "active": "58b733c713eab91c",
   "lastOpenFiles": [
-    "Database/Relational Database.md",
+    "Database/SQL Cheat Sheet.md",
     "Database/Introduction to Databases.md",
-    "Pasted image 20221008124712.png",
-    "Recording 20221008105215.webm",
-    "Database/SELECT statement.md",
-    "Attachments/Untitled.png",
-    "Database/terst.md",
-    "Attachments/Pasted image 20221008125127.png",
-    "Attachments/Recording 20221008125148.webm",
-    "test.md"
+    "Database/DELETE Statement.md",
+    "Database/UPDATE Statement.md",
+    "Database/DISTINCT.md",
+    "Database/COUNT.md",
+    "Database/predicate.md",
+    "Database/INSERT Statement.md",
+    "Database/LIMIT.md",
+    "Database/SELECT statement.md"
   ]
 }
