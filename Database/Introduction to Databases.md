@@ -19,11 +19,7 @@ data needs to be stored and secured and generally it is stored in database
 
 different kinds of databases store data in different forms, one of the most popular is [[Relational Database]]
 
-# DBMS
-
-- software to manage database
-- Database, Database Server, Database System , Data Server, DBMS offer used interchangeably
-
+[[DBMS]]
 ## RDBMS
 
 - [[Relational Database]] management system
