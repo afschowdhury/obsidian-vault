@@ -32,12 +32,36 @@
             }
           },
           {
-            "id": "cfd4b64016e573b2",
+            "id": "8126fdd45db47aad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/What is PEP.md",
+                "file": "Database/is vs == in python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c65482144dba9105",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/Keywords of python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04fed2cba44107bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/bytecode.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,15 +204,15 @@
   },
   "active": "895c9d3b6beaa593",
   "lastOpenFiles": [
-    "Database/What are Dict and List comprehensions?.md",
-    "Database/DBMS.md",
+    "Database/Difference between .py and .pyc files.md",
+    "Database/bytecode.md",
+    "Database/source code files.md",
     "Database/Python Interveiw Questions.md",
+    "Database/What are Dict and List comprehensions?.md",
+    "Database/Common built in data type n in python.md",
     "Database/What is PEP.md",
-    "Database/Scripting Language.md",
-    "Database/Difference between Scripting language and Programming Language.md",
-    "Database/Disadvantage of Scripting Language.md",
-    "Database/Advantage of Scripting Language.md",
-    "Database/Difference between Compiled language and Interpreted language.md",
-    "Database/Compiler vs Interpreter.md"
+    "Database/is vs == in python.md",
+    "Database/Keywords of python.md",
+    "Database/Memory Management in Python.md"
   ]
 }

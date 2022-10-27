@@ -7,4 +7,11 @@
 	2. More on [[Scripting Language]]
 4. [[What is PEP]]
 5. [[What are Dict and List comprehensions?]]
+6. [[Common built in data type n in python]]
+7. [[Difference between .py and .pyc files]]
+8. [[what is slicing in python]]
+9. [[Keywords of python]]
+10. [[Literals in Python]]
+11. [[Memory Management in Python]]
+12. [[is vs == in python]]
 	

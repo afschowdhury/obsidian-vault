@@ -1,6 +1,8 @@
 
 
-A script or scripting language is a computer language that does not need the compilation step and is rather interpreted one by one at runtime.[[Difference between Compiled language and Interpreted language]]. [[Compiler vs Interpreter]] . 
+A script or scripting language is a computer language that does not need the compilation step and is rather interpreted one by one at runtime.[[Difference between Compiled language and Interpreted language]].
+[[Compiler vs Interpreter]] . 
+
 It is where the script is written and where instructions for a run-time environment are written. In contrast to programming languages that are compiled first before running, scripting languages do not compile the file and execute the file without being compiled.
 
 Scripts are often utilized to create **dynamic web applications** nowadays because they are linked to web development. *Server-Side Scripting Languages and Client-Side Scripting Languages are the two types of scripting languages*. **Python, PHP, and Perl are examples of server-side scripting languages, while JavaScript is the greatest example of a client-side scripting language.** These languages are often developed with the goal of communicating with other programming languages.
