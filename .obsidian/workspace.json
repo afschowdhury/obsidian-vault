@@ -11,12 +11,8 @@
             "id": "779c898b553352b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/DBMS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -25,19 +21,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Python Interveiw Questions.md",
+                "file": "Python/Tuple-Python.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8126fdd45db47aad",
+            "id": "307e6da967ba6cca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/is vs == in python.md",
+                "file": "Python/difference between List and Tuples.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d0db62ed3295c9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coding basic/Compiler vs Interpreter.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Keywords of python.md",
+                "file": "Python/Keywords of python.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +69,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/bytecode.md",
+                "file": "Database/Relational Database.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Python Interveiw Questions.md",
+                "file": "Database/Relational Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Python Interveiw Questions.md",
+                "file": "Database/Relational Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Python Interveiw Questions.md"
+                "file": "Database/Relational Database.md"
               }
             }
           },
@@ -167,7 +175,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "61bf763f0fdfa7a7",
@@ -199,20 +208,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "895c9d3b6beaa593",
+  "active": "04fed2cba44107bc",
   "lastOpenFiles": [
+    "Python/Difference between __repr__ vs __str__().md",
+    "coding basic/bytecode.md",
+    "Python/Tuple-Python.md",
+    "Python/difference between List and Tuples.md",
+    "Database/test.md",
+    "Python/is vs == in python.md",
+    "Python/Python Interveiw Questions.md",
     "Database/Difference between .py and .pyc files.md",
-    "Database/bytecode.md",
-    "Database/source code files.md",
-    "Database/Python Interveiw Questions.md",
-    "Database/What are Dict and List comprehensions?.md",
-    "Database/Common built in data type n in python.md",
-    "Database/What is PEP.md",
-    "Database/is vs == in python.md",
-    "Database/Keywords of python.md",
-    "Database/Memory Management in Python.md"
+    "coding basic/source code files.md",
+    "Database/What are Dict and List comprehensions?.md"
   ]
 }

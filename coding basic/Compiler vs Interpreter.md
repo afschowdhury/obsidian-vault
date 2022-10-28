@@ -1,4 +1,4 @@
-
+#coding #python 
 
 **1.** [**Compiler**](https://www.geeksforgeeks.org/introduction-of-compiler-design/)**:**   
 It is a translator which takes input i.e., High-Level Language, and produces an output of low-level language i.e. machine or assembly language. 
